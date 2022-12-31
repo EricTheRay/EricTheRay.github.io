@@ -6,7 +6,6 @@ h1.style.fontSize = "32px";
 h2.style.fontSize = "18px";
 clock.style.fontSize = "18px";
 
-
 function displayTime()
 {
     let currentDate = new Date();
